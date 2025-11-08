@@ -172,11 +172,5 @@ GitHub: [https://github.com/john210706/recipe-finder](https://github.com/john210
 
 ---
 
-Once you paste this in your `README.md`, save it and push it:
 
-```bash
-git add README.md
-git commit -m "Added detailed README"
-git push origin main
-````
 
