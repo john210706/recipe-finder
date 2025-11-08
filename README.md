@@ -163,6 +163,9 @@ Then open **[http://localhost:3000](http://localhost:3000)** in your browser �
 ## 📄 Author
 
 👤 **John Abraham**
+👤 **Sanjay Rangasamy**
+👤 **Aswanth AS**
+
 Project: *Recipe Finder using Node.js, Express & PostgreSQL*
 GitHub: [https://github.com/john210706/recipe-finder](https://github.com/john210706/recipe-finder)
 
